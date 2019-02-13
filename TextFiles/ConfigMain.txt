@@ -1,0 +1,4 @@
+InputBlockSize=10
+ThreadsNumber=2
+ThreadConfigPrefix=src/TextFiles/Thread
+ConfigAlg=src/Encoding/ConfigEncoding.txt
